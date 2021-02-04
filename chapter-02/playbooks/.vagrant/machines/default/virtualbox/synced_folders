@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/khurram/Documents/github/ansibleupandrunning/chapter-01/playbooks","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/khurram/Documents/github/ansibleupandrunning/chapter-02/playbooks","disabled":false,"__vagrantfile":true}}}
